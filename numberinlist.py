@@ -1,4 +1,4 @@
-numberlist = (1,2,3,4,5,55,99,8,12,15,18,-1,-5,-10)
+numberlist = (1,2,3,4,5,55,99,8,12,-30.3,15,18,-1,-5,-10,2.4,-24.9)
 
 #function to get highest number returned to highestnum 
 def get_highest(numbers,highestnum=0):
